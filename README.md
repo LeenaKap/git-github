@@ -1,2 +1,2 @@
 # git-github
-Learning the git
+Learning the git and selenium
